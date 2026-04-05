@@ -1,0 +1,28 @@
+Q1- The map showed a high concentration of deaths near the Broad Street pump. However, proximity alone only proves a correlation. What specific steps did Snow take to move his argument from correlation (deaths happen near the pump) to causation (the pump water is causing the deaths)?
+
+
+A1- John Snow moved from correlation to causation by studying the exceptions to the Broad Street cholera outbreak. He examined three key anomalies: the Brewery, the Workhouse, and the Hampstead Widow and found that each case supported the same conclusion; cholera followed the water, not the location. 
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+Q2- Imagine if Snow had only collected data from the local hospitals, rather than walking the streets and knocking on doors. How would this have changed his dataset, and how might it have altered his conclusions?
+
+
+A2- If Snow had relied only on hospital records, his dataset would have been incomplete and misleading, because he would have missed essential information such as people’s water sources, the healthy brewery and workhouse residents who avoided the Broad Street pump, and the distant Hampstead widow case, all of which showed that cholera followed contaminated water rather than location.
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+Q3- The “miasma theory” was a widely accepted consensus that was fundamentally incorrect but seemed to explain the surface-level facts (Soho smelled bad, and people in Soho were dying). What is a modern example of a “miasma”—a widely accepted assumption in business, society, or science that might fall apart if rigorously tested with data?
+
+
+A3- A modern example of a “miasma” is the belief that productivity increases with more hours worked. Many workplaces still assume that longer hours automatically lead to higher output. When you look at real data, this idea doesn’t hold up. Productivity and creativity don’t keep rising just because you work longer. After a certain point, extra hours mostly create fatigue, more mistakes, and lower overall performance. In other words, it’s a modern miasma, a belief that sounds logical but falls apart once you look at the evidence.
+
+
+
+
+
+
+
+
+
+
